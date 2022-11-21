@@ -3,8 +3,8 @@
 - According to the table given in the .txt files, I made the states go where they should go with different inputs.
 - I used the following table examples in .txt files.
 <hr>
-# Moore Machine Table Example
-![Moore](/images/MooreTable.PNG)
+## Moore Machine Table Example
+![](/images/MooreTable.PNG)
 <br>
-# Mealy Machine Table Example
-![Mealy](/images/MealyTable.PNG)
+## Mealy Machine Table Example
+![](/images/MealyTable.PNG)
