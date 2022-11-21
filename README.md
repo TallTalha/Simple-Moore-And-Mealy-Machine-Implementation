@@ -5,7 +5,7 @@
 - .txt files do not have column headings, they are written in order.
 ## In Turkish
 # Moore ve Mealy makinelerinin uygulanması
-##Automata dersinde verilen ödev için Moore ve Mealy makinelerinin C dilinde basit bir implementasyonunu yazdım.
+## Automata dersinde verilen ödev için Moore ve Mealy makinelerinin C dilinde basit bir implementasyonunu yazdım.
 - .txt dosyalarında verilen tabloya göre farklı girdilerle durumların gitmesi gereken yere gitmesini sağladım.
 - Aşağıdaki tablo örneklerini .txt dosyalarında kullandım.
 - .txt dosyaları sütun başlıkları içermez, sırayla yazılır.
